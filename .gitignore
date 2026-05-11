@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Test results
+TestResults/
+*.coverage
+
+# Publish output
+publish/

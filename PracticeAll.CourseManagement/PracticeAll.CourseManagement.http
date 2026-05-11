@@ -1,0 +1,6 @@
+@PracticeAll.CourseManagement_HostAddress = http://localhost:5178
+
+GET {{PracticeAll.CourseManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
